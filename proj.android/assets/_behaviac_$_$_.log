@@ -1,0 +1,11 @@
+[behaviac][00000][thread 15876]CREATED ON 2015-12-24
+
+[behaviac][00000][thread 15876][14:59:11][INFO]behaviac: ConnectorInterface::Init Enter
+[behaviac][00001][thread 15876][14:59:11][INFO]behaviac: listing at port 60636
+[behaviac][00002][thread 15876][14:59:11][INFO]behaviac: ConnectorInterface::Init Connected
+[behaviac][00003][thread 14980][14:59:11][MSG]behaviac: Socket Thread Starting
+[behaviac][00004][thread 14980][14:59:11][MSG]behaviac: Listening at port 60636...
+[behaviac][00005][thread 15876][14:59:11][INFO]behaviac: ConnectorInterface::Init successful
+[behaviac][00006][thread 15876][14:59:11][INFO]behaviac: SetupConnection successful
+[behaviac][00007][thread 15876][14:59:11][INFO]'WorkspaceExportPath' is './behaviac/exported'
+[behaviac][00008][thread 14980][14:59:14][MSG]behaviac: ThreadFunc exited. 
